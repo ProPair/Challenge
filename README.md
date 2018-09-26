@@ -9,6 +9,7 @@ Welcome to the ProPair challenge! This project is meant to be a fun assessment o
 * Code cleanliness and structure (proper code abstraction and reusability, etc)
 * Code Tests
 * Code Performance
+* Production readiness (How easily can your code be deployed? How easily can it be shared with and maintained by other team members? How easily can your code be debugged, if a bug was found on production?)
 
 ### Deliverables ###
 
