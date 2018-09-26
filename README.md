@@ -15,7 +15,7 @@ Welcome to the ProPair challenge! This project is meant to be a fun assessment o
 
 * Access to the source code (to be hosted in your GitHub account)
 * Access to working API endpoints
-* A screen sharing session where you'll demonstrate the artifacts created by this exercise in your AWS account
+* A screen sharing session during which you'll demonstrate the artifacts created by this exercise in your AWS account
 
 ### Timeframe ###
 
