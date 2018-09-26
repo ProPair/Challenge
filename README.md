@@ -1,6 +1,6 @@
 # ProPair Challenge
 
-Welcome to the ProPair challenge! This project is meant to be a fun assessment of your Software architecture knowledge, coding skills, resourcefulness and ability to learn new technologies quickly, it also reflects very clolsely the type of tasks you'd be faced with on a daily basis as a ProPair software developer.
+Welcome to the ProPair challenge! This project is meant to be a fun assessment of your Software architecture knowledge, coding skills, resourcefulness and ability to learn new technologies quickly, it also reflects very closely the type of tasks you'd be faced with on a daily basis as a ProPair software developer.
 
 ### The things we care about ###
 
@@ -20,7 +20,7 @@ Welcome to the ProPair challenge! This project is meant to be a fun assessment o
 
 We believe 72 hours is a reasonable timeframe to complete this project, please let us know if this doesn't sound reasonable to you.
 
-### The challlenge ###
+### The challenge ###
 
 We want to build an AI-powered crime prediction system for the San Francisco Police Department! As a Software Developer at ProPair you are tasked with creating the platform necessary to consume, parse, store, regularly update and process data from the SFPD crime database.
 
