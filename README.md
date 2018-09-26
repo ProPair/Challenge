@@ -82,7 +82,7 @@ Response:
 }]
 ```
 
-* Assuming a fourth API endpoint that upon receiving a crime, day_of_week and hour_of_day will predict the likelihood of such crime to occur on such day_of_week and hour_of_day anywhere in San Francisco, please explain what would be some techniques/formulas/libraries/other ideas you would use to implement this. For extra credit, go ahead an implement the 4th endpoint (Tip: you don't have to use fancy deep learning techniques to do this, but feel free to if you believe it is the right choice!)
+* Assuming a fourth API endpoint that upon receiving a crime, day_of_week and hour_of_day will predict the likelihood of such crime to occur on such day_of_week and hour_of_day anywhere in San Francisco, please explain what would be some techniques/formulas/libraries/other ideas you would use to implement this. For extra credit, go ahead and implement the 4th endpoint (Tip: you don't have to use fancy deep learning techniques to do this, but feel free to if you believe it is the right choice!)
 
 E.g.
 
